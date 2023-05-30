@@ -1,2 +1,3 @@
-# London-Firebrigade-Simulation
-Based on the publicly available London Fire brigade data(https://data.london.gov.uk/dataset/london-fire-brigade-incident-records), we simulate fire trucks for Top 5 busiest Fire stations during Summer. Aim is to Allocate optimum number of fire trucks for each of the 5 stations.
+Use 'simul8' software to run the file 'Simulation'
+Report 'Simulation_Report' is provided for more details.
+Key skills to learn: Simul8 software, Simulation of a real time event and finding Optimality for the resources. 
